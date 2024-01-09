@@ -1,0 +1,1 @@
+print(len(input("Please input your name: ")))
